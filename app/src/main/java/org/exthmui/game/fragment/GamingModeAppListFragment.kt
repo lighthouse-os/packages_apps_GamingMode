@@ -20,7 +20,7 @@ import android.provider.Settings
 
 import androidx.preference.PreferenceDataStore
 
-import com.evolution.settings.preference.SystemSettingsStore
+import com.lighthouse.settings.preference.SystemSettingsStore
 
 import org.exthmui.game.R
 

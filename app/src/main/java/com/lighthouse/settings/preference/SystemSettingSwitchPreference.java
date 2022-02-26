@@ -1,7 +1,7 @@
 /*
  * Copyright (C) 2014 The CyanogenMod Project
  * Copyright (C) 2017 AICP
- * Copyright (C) 2019-2022 The Evolution X Project
+ * Copyright (C) 2019-2022 Project Lighthouse
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package com.evolution.settings.preference;
+package com.lighthouse.settings.preference;
 
 import android.content.Context;
 import androidx.preference.SwitchPreference;
